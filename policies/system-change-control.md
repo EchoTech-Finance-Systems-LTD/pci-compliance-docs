@@ -282,26 +282,4 @@ All changes must include security risk assessment addressing:
 
 ## 12. Related Documents
 
-- **Information Security Policy** (POL-SEC-001)
-- **Incident Response Plan** (POL-IR-001)  
-- **Risk Management Policy** (POL-RM-001)
-- **Access Control Policy** (POL-AC-001)
-- **Configuration Management Procedures** (PROC-CM-001)
-- **Security Testing Procedures** (PROC-ST-001)
-
----
-
-## 13. Revision History
-
-| Version | Date | Changes | Approved By |
-|---------|------|---------|-------------|
-| 1.0 | 2024-02-15 | Initial version | [CISO Name] |
-| 2.0 | 2024-08-15 | Added emergency change procedures | [CISO Name] |
-| 2.1 | 2025-08-14 | Updated for PCI DSS 4.0 requirements | [CISO Name] |
-
----
-
-*This document is reviewed quarterly and updated as needed to maintain PCI DSS compliance and operational effectiveness.*
-
-**Document Classification:** Internal Use Only  
-**Next Scheduled Review:** February 14, 2026
+- **Information Securi
