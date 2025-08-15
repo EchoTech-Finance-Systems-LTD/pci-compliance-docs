@@ -10,12 +10,13 @@ This repository contains all policies, procedures, and documentation required fo
 ## 📋 Quick Access for Auditors
 
 ### Core Policies
-- [System Change Control Procedures](#system-change-control)
-- [Access Control Policy](#access-control)
-- [Network Security Policy](#network-security)
-- [Vulnerability Management](#vulnerability-management)
-- [Incident Response Plan](#incident-response)
-- [Data Retention & Disposal](#data-retention)
+- [System Change Control Procedures](./policies/system-change-control.md)
+- [Access Control Policy](./policies/access-control.md)
+- [Network Security Policy](./policies/network-security.md)
+- [Vulnerability Management](./policies/vulnerability-management.md)
+- [Incident Response Plan](./policies/incident-response.md)
+- [Data Retention & Disposal](./policies/data-retention.md)
+- [Physical Security Policy](./policies/physical-security.md)
 
 ### Evidence & Reports
 - [Quarterly Vulnerability Scans](./evidence/vulnerability-scans/)
@@ -73,6 +74,12 @@ This repository contains all policies, procedures, and documentation required fo
 ### Data Retention
 **File:** [policies/data-retention.md](./policies/data-retention.md)  
 **PCI DSS Requirement:** 3.1, 9.8  
+**Last Updated:** August 2025  
+**Next Review:** February 2026
+
+### Physical Security
+**File:** [policies/physical-security.md](./policies/physical-security.md)  
+**PCI DSS Requirement:** 9.1-9.10  
 **Last Updated:** August 2025  
 **Next Review:** February 2026
 
